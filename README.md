@@ -1,4 +1,4 @@
-# [Magento 2 Order Editor]([https://magefan.com/magento-2-price-history](https://magefan.com/magento-2-edit-order-extension)) by Magefan
+# [Magento 2 Order Editor](https://magefan.com/magento-2-edit-order-extension) by Magefan
 
 <a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
 
@@ -24,6 +24,7 @@
 ## Features
 
 * **Edit All Order Information**
+
 All default Magento offers you is to cancel the order and create a new one. It wouldn’t be that troublesome if the thing you’ve had to change was the customer name or the shipping address. However, when customers choose the wrong colour of the product or the payment method, you need a quicker solution. 
 
 That’s why you need this Magento 2 Order Editor to cover all order details for you. There is no need to cancel orders. Just choose any order information you’d like to change and this extension will help you edit it.
@@ -171,6 +172,7 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
   * [Magento 2 YouTube Widget Extension](https://magefan.com/magento2-youtube-extension)
   * [Magento 2 CLI Extension](https://magefan.com/magento2-cli-extension)
   * [Magento 2 Facebook Pixel Extension](https://magefan.com/magento-2-facebook-pixel-extension)
+  * [Magento 2 Price History](https://magefan.com/magento-2-price-history)
 
 ### [Magento 2 Blog Extensions](https://magefan.com/magento-2-extensions/blog-extensions)
 
