@@ -8,7 +8,7 @@
 
 [Magento 2 Order Editor](https://magefan.com/magento-2-edit-order-extension)  is the extension that allows you to track prices in Magento 2 and display the lowest price on discounted or all products. It not only allows you to comply with the EU Omnibus Price Directive. You can provide a better customer experience by being transparent about your discounts and sales. 
 
-<a href="https://magefan.com/"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
+<a href="https://magefan.com/magento-2-edit-order-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-edit-order-extension#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
 ## Requirements
   * Magento Community 2.2.0-2.4.x (CE, EE, ECE, B2B)
