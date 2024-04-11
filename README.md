@@ -11,25 +11,23 @@
 <a href="https://magefan.com/magento-2-edit-order-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-edit-order-extension#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
 ## Requirements
-  * Magento Community 2.2.0-2.4.x (CE, EE, ECE, B2B)
-  * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.1.13. Please install this extension first if you use installation via FTP.
-  * **Note** that extension is free only for the Magento Community (Open Source) Edition. For Magento EE, ECE, B2B you need to purchase the license at magefan.com.
+  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+  * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.1.20. Please install this extension first if you use installation via FTP.
 
 ## Benefits
 * Faster order processing
 * Improved customers’ experience
 * Time-effective order management
 
-
 ## Features
 
-* **Edit All Order Information**
+### Edit All Order Information
 
 All default Magento offers you is to cancel the order and create a new one. It wouldn’t be that troublesome if the thing you’ve had to change was the customer name or the shipping address. However, when customers choose the wrong colour of the product or the payment method, you need a quicker solution. 
 
 That’s why you need this Magento 2 Order Editor to cover all order details for you. There is no need to cancel orders. Just choose any order information you’d like to change and this extension will help you edit it.
 
-* **Edit Customer Details**
+### Edit Customer Details
 
 It happens quite often that customers make mistakes with their personal details, and need to change them. With the Order Editor at hand, any customer details can be changed. Edit customer first and last names, email, VAT number, customer group and even the website they are associated with. 
 
@@ -39,14 +37,13 @@ You can even change the customer right from the admin panel. Make sure the corre
   <img width="853" height="425" src="https://cm.magefan.com/catalog/edit-customer-information-in-order_1.png">
 </p>
 
-* **Update Shipping and Billing Addresses**
+### Update Shipping and Billing Addresses
 
 Shipping and billing addresses are quite important when it comes to Magento orders. They define who makes a purchase and where the order needs to be shipped. It makes them the most important order details. 
 
 Although Magento allows you to edit these, you can’t edit any shipping or payment methods. And once the shipping address changes, you need to update the shipping method accordingly.
 
-
-* **Change Shipping and Payment Methods**
+### Change Shipping and Payment Methods
 
 Sometimes, customers might change the location they want their order to be shipped to 一 a different state, province or country. That’s why, as we’ve just mentioned, once the shipping address changes you need to update the shipping method. And Magento 2 Order Editor allows you to.
 
@@ -56,13 +53,13 @@ The same goes for the payment method. If a customer decided they want to pay in 
   <img width="853" height="425" src="https://cm.magefan.com/catalog/change-payment-method-magento-order.png">
 </p>
 
-* **Change Tax Rates**
+### Change Tax Rates
 
 One more thing related to the shipping address is the tax rate. And if you have many of them applied to different locations, you’ll need to change tax rates right after you edit the shipping information. 
 
 If you want to keep all your orders detail organized 一 your need this Order Editor solution!
 
-* **Update Ordered Items**
+### Update Ordered Items
 
 Leaving all the other order detail behind, one of the most common things you’ll be using the Magento Order Editor for is editing ordered items. The colour or size needs to be different, or the customer simply wants a product in a different category. 
 
@@ -72,7 +69,7 @@ All these and many other actions just in a few clicks. Magento 2 Order Edit Exte
   <img width="853" height="425" src="https://cm.magefan.com/catalog/magento-edit-ordered-items.png">
 </p>
 
-* **Track All Order Changes**
+### Track All Order Changes
 
 Having such a variety of options to edit orders in Magento, you will most likely use them a lot. So, to keep track of all the changes and see exactly what was edited, when and by who, you have the order edit log at the bottom of each order. 
 
@@ -129,6 +126,7 @@ Try out our open demo and if you like our extension **please give us some star o
 ## Support
 If you have any issues, please [contact us](mailto:support@magefan.com)
 then if you still need help, open a bug report in GitHub's
+[issue tracker](https://github.com/magefan/module-order-editor/issues).
 
 ## Need More Features?
 Please contact us to get a quote
@@ -137,7 +135,7 @@ https://magefan.com/contact
 ## License
 The code is licensed under [EULA](https://magefan.com/end-user-license-agreement).
 
-## [Documentation](https://magefan.com/magento-2-price-history/documentation)
+## Documentation
 
 **General**
 * [How to install Magento 2 Order Editor?](https://magefan.com/magento-2-edit-order-extension/installation)
