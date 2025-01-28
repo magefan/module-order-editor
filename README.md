@@ -20,9 +20,16 @@ Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 ## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
     
 ## Benefits
-* Faster order processing
-* Improved customers’ experience
-* Time-effective order management
+* [Edit All Order Information](https://github.com/magefan/module-order-editor?tab=readme-ov-file#edit-all-order-information)
+* [Edit or Change Customer Details](https://github.com/magefan/module-order-editor?tab=readme-ov-file#edit-or-change-customer-details)
+* [Update Shipping and Billing Addresses](https://github.com/magefan/module-order-editor?tab=readme-ov-file#update-shipping-and-billing-addresses)
+* [Adjust Shipping and Payment Methods](https://github.com/magefan/module-order-editor?tab=readme-ov-file#adjust-shipping-and-payment-methods)
+* [Edit Order’s Tax Rates](https://github.com/magefan/module-order-editor?tab=readme-ov-file#edit-orders-tax-rates)
+* [Update or Set Custom Shipping Rates](https://github.com/magefan/module-order-editor?tab=readme-ov-file#update-or-set-custom-shipping-rates)
+* [Update, Add or Remove Ordered Items](https://github.com/magefan/module-order-editor?tab=readme-ov-file#update-add-or-remove-ordered-items)
+* [Track All Order Changes](https://github.com/magefan/module-order-editor?tab=readme-ov-file#track-all-order-changes)
+* [Use the Quick Editing Form](https://github.com/magefan/module-order-editor?tab=readme-ov-file#use-the-quick-editing-form)
+* [Define What Orders Can Be Edited](https://github.com/magefan/module-order-editor?tab=readme-ov-file#define-what-orders-can-be-edited)
 
 ## Features
 
